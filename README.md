@@ -2,6 +2,5 @@
 Data Structures lab exercises
 
 
-Collection of solutions to all lab exercise done in 3rd semester.
-
+Implementations of Lab Exercises done during 3rd Semester.
 (Mostly Implementation of DataStructures ).
